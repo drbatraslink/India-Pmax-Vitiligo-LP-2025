@@ -283,7 +283,7 @@ a:hover{text-decoration: none;}
 @media (max-width:600px){
 .treatment_all_comm_div.lets_talk_sec .talk_about_heading{font-size:21px!important;font-weight:600;margin-bottom:10PX;text-align:center}
 .treatment_all_comm_div.lets_talk_sec .talk_about_btn{margin:0 auto!important;width:90%;margin-bottom:0;line-height:normal;color:#fff;border-radius:50px;font-weight:600;font-size:18px!important;border:none;background-color:#0c4679!important;box-shadow:0 4px 15px rgb(175 173 173 / 18%)}
-.treatment_all_comm_div.lets_talk_sec{margin-top:40px}
+.treatment_all_comm_div.lets_talk_sec{margin-top:30px}
 }
 /*==========================================*/
 /* Our Process css*/
